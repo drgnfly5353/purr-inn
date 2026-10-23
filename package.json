@@ -1,0 +1,22 @@
+{
+  "name": "purr-inn",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A quiet pastel ukiyo-e courtyard where you check in, name a cat and look after it.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.1",
+    "oxlint": "^1.81.0",
+    "vite": "^8.3.0"
+  }
+}
