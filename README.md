@@ -5,7 +5,7 @@ and naming a cat, then look after it while it wanders, naps, plays and makes
 friends with the cats who live at the inn, all drawn as a soft, pastel
 ukiyo-e woodblock print.
 
-**[▶ Play in your browser](https://USERNAME.github.io/purr-inn/)** · best on a phone, works on desktop too
+**[▶ Play in your browser](https://drgnfly5353.github.io/purr-inn/)** · best on a phone, works on desktop too · [Design report (PDF)](docs/design-report.pdf)
 
 ![Purr Inn showcase](docs/showcase.gif)
 
@@ -80,3 +80,15 @@ Purr Inn started as a team project at a hackathon, where the challenge was a
 game for hotel guests to share during their stay. This repo is my designer's
 cut of that demo: a polished single-player version that runs entirely in the
 browser. A shared courtyard across guests' phones may come back later.
+
+The [design report](docs/design-report.pdf) written for the judges covers the
+concept, the rounds of design direction, the visual language, colour, day and
+night, and each screen. It describes the multiplayer hackathon version.
+
+### Hackathon team
+
+- Ella Wallace ([@ellahopewallace](https://github.com/ellahopewallace))
+- Shahd Al Harthy ([@shahdalharthy](https://github.com/shahdalharthy))
+- [@drgnfly5353](https://github.com/drgnfly5353): design
+
+The team's hackathon repo: [ellahopewallace/GutsHackathon](https://github.com/ellahopewallace/GutsHackathon)
