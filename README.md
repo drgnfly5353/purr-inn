@@ -89,6 +89,7 @@ night, and each screen. It describes the multiplayer hackathon version.
 
 - Ella Wallace ([@ellahopewallace](https://github.com/ellahopewallace))
 - Shahd Al Harthy ([@shahdalharthy](https://github.com/shahdalharthy))
+- Noor Al Ghammari
 - [@drgnfly5353](https://github.com/drgnfly5353): design
 
 The team's hackathon repo: [ellahopewallace/GutsHackathon](https://github.com/ellahopewallace/GutsHackathon)
